@@ -20,9 +20,9 @@ features:
 footer: MIT Licensed | Copyright © 2023-present ztkuaikuai
 ---
 ## 妙记界面演示
-| ![demonstration1](./demonstration1.png) | ![demonstration1](./demonstration2.png) |
-| :-------------------------------------: | :-------------------------------------: |
-| ![demonstration1](./demonstration3.png) | ![demonstration1](./demonstration4.png) |
+| ![demonstration1](./demonstration1.png) | ![demonstration1](./demonstration5.png) |![demonstration1](./demonstration6.png) |
+| :-------------------------------------: | :-------------------------------------: |:-------------------------------------: |
+| ![demonstration1](./demonstration2.png) | ![demonstration1](./demonstration3.png) | ![demonstration1](./demonstration4.png) |
 
 
 
