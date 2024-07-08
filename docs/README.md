@@ -20,11 +20,11 @@ features:
 footer: MIT Licensed | Copyright © 2023-present ztkuaikuai
 ---
 ## 秒记界面宣传图
-![宣传图1](./bigBanner1.png)
+![宣传图1](https://mp-32a9c741-ee12-48ed-86c1-aaeb62c1a109.cdn.bspapp.com/cloudstorage/mj-assets/bigBanner1.png)
 
-![宣传图1](./bigBanner2.png)
+![宣传图2](https://mp-32a9c741-ee12-48ed-86c1-aaeb62c1a109.cdn.bspapp.com/cloudstorage/mj-assets/bigBanner2.png)
 
-![宣传图1](./bigBanner3.png)
+![宣传图3](https://mp-32a9c741-ee12-48ed-86c1-aaeb62c1a109.cdn.bspapp.com/cloudstorage/mj-assets/bigBanner3.png)
 
 ## 妙记界面演示
 | ![demonstration1](./demonstration1.png) | ![demonstration1](./demonstration5.png) |![demonstration1](./demonstration6.png) |
