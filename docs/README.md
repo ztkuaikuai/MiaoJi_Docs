@@ -19,7 +19,7 @@ features:
     details: 符合直觉的人机交互，美观舒适的界面。
 footer: MIT Licensed | Copyright © 2023-present ztkuaikuai
 ---
-## 秒记界面宣传图
+## 妙记界面宣传图
 ![宣传图1](https://mp-32a9c741-ee12-48ed-86c1-aaeb62c1a109.cdn.bspapp.com/cloudstorage/mj-assets/bigBanner1.png)
 
 ![宣传图2](https://mp-32a9c741-ee12-48ed-86c1-aaeb62c1a109.cdn.bspapp.com/cloudstorage/mj-assets/bigBanner2.png)
