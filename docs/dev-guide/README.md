@@ -18,8 +18,6 @@ fork 项目到你的仓库拷贝或者直接通过 `git clone` 命令拷贝[妙�
 
 ### 初始化项目
 
-### 初始化项目
-
 1. 右键 uniCloud 文件夹，关联你的云服务空间。
 
 2. 创建 uni-id 配置文件。在 `/uni_modules/uni-config-center/uniCloud/cloudfunctions/common/uni-config-center` 下创建 `uni-id` 
